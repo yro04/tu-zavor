@@ -5,6 +5,9 @@ module.exports = {
       fontFamily: {
         sans: ['Poppins', 'sans-serif'],
       },
+      height: {
+        '60': '15rem',
+      },
     },
   },
   
