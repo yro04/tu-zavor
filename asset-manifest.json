@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29f938e4.css",
+    "main.js": "/static/js/main.c9a4e636.js",
+    "static/js/453.1bd906e6.chunk.js": "/static/js/453.1bd906e6.chunk.js",
+    "static/media/tu-zavor-logo.jpeg": "/static/media/tu-zavor-logo.dbe58066f4ce36731720.jpeg",
+    "index.html": "/index.html",
+    "main.29f938e4.css.map": "/static/css/main.29f938e4.css.map",
+    "main.c9a4e636.js.map": "/static/js/main.c9a4e636.js.map",
+    "453.1bd906e6.chunk.js.map": "/static/js/453.1bd906e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29f938e4.css",
+    "static/js/main.c9a4e636.js"
+  ]
+}
