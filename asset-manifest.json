@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/tu-zavor/static/css/main.29f938e4.css",
-    "main.js": "/tu-zavor/static/js/main.3dde49d4.js",
+    "main.js": "/tu-zavor/static/js/main.8d144c28.js",
     "static/js/453.1bd906e6.chunk.js": "/tu-zavor/static/js/453.1bd906e6.chunk.js",
+    "static/media/image-food.jpeg": "/tu-zavor/static/media/image-food.f183c370f80d2fb84175.jpeg",
     "static/media/tu-zavor-logo.jpeg": "/tu-zavor/static/media/tu-zavor-logo.dbe58066f4ce36731720.jpeg",
     "index.html": "/tu-zavor/index.html",
     "main.29f938e4.css.map": "/tu-zavor/static/css/main.29f938e4.css.map",
-    "main.3dde49d4.js.map": "/tu-zavor/static/js/main.3dde49d4.js.map",
+    "main.8d144c28.js.map": "/tu-zavor/static/js/main.8d144c28.js.map",
     "453.1bd906e6.chunk.js.map": "/tu-zavor/static/js/453.1bd906e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29f938e4.css",
-    "static/js/main.3dde49d4.js"
+    "static/js/main.8d144c28.js"
   ]
 }
